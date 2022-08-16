@@ -1,6 +1,6 @@
 # Projetos/Materiais desenvolvidos
 
-Trata-se do portfolio de projetos e materiais desenvolvidos em sua maioria relacionados com Datas Science.
+Trata-se do portfolio de projetos e materiais desenvolvidos em sua maioria relacionados com Data Science.
 
 * [Introdução ao Pandas](https://github.com/alexvaroz/data_science_alem_do_basico/blob/master/IntroPlusPandas.ipynb)
 * [Previsão de sobreviventes no desastre do Titanic](https://github.com/alexvaroz/data_science_alem_do_basico/blob/master/Classificacao_Titanic.ipynb)
