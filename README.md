@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="fundo.jfif" >
+</p>
+
 # Sobre mim
 
 Meu nome é Alexandre Roriz, graduado em Eng. Mecatrônica, mestrado em Eng. de Software e especializado em Análise de Dados para Controle Externo. Sou auditor de controle externo no Tribunal de Contas da União e professor universitário da instituição IESB, em Brasília.
