@@ -20,6 +20,7 @@ Trata-se do portfolio de projetos e materiais desenvolvidos em sua maioria relac
 * [Exploração da API do OpenAI](https://alexvaroz-parquinho-openai-app-5ht7e2.streamlitapp.com/) - https://github.com/alexvaroz/parquinho_openai
 * [Análise do Debate Presidencial 28/08/2022](https://alexvaroz-app-analise-debate-01-2022-app-i5pv0j.streamlitapp.com/) - https://github.com/alexvaroz/app_analise_debate_01_2022
 * [Disponibilização de funcionalidades da biblioteca spaCy](https://alexvaroz-app-playground-nlp-spacy-app-0ecdlo.streamlitapp.com/) https://github.com/alexvaroz/app_playground_nlp_spacy
+* [Análise do Debate Presidencial 29/09/2022](https://alexvaroz-app-analise-debate-02-2022-app-u2pwm3.streamlitapp.com/) https://github.com/alexvaroz/app_analise_debate_02_2022
 
 * Exploração de dados do Twitter
 * Análise da evolução de uma vegetação utilizando imagens de satélite
