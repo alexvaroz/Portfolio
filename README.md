@@ -21,6 +21,7 @@ Trata-se do portfolio de projetos e materiais desenvolvidos em sua maioria relac
 * [Análise do Debate Presidencial 28/08/2022](https://alexvaroz-app-analise-debate-01-2022-app-i5pv0j.streamlitapp.com/) - https://github.com/alexvaroz/app_analise_debate_01_2022
 * [Disponibilização de funcionalidades da biblioteca spaCy](https://alexvaroz-app-playground-nlp-spacy-app-0ecdlo.streamlitapp.com/) https://github.com/alexvaroz/app_playground_nlp_spacy
 * [Análise do Debate Presidencial 29/09/2022](https://alexvaroz-app-analise-debate-02-2022-app-u2pwm3.streamlitapp.com/) -  https://github.com/alexvaroz/app_analise_debate_02_2022
+* [Criador de resumos de vídeos do YouTube, via ChatGPT](https://alexvaroz-youtube-summarizer-app-ivqe5a.streamlit.app/) 
 
 * Exploração de dados do Twitter
 * Análise da evolução de uma vegetação utilizando imagens de satélite
