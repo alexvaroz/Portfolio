@@ -4,7 +4,7 @@
 
 # Sobre mim
 
-Meu nome é Alexandre Roriz, graduado em Eng. Mecatrônica, mestrado em Eng. de Software e especializado em Análise de Dados para Controle Externo. Sou auditor de controle externo no Tribunal de Contas da União e professor universitário da instituição IESB, em Brasília.
+Meu nome é Alexandre Roriz, graduado em Eng. Mecatrônica, mestrado em Eng. de Software e especializado em Análise de Dados para Controle Externo. Sou Auditor Federal de Controle Externo no Tribunal de Contas da União, onde atuo como cientista de dados em trabalhos de fiscalização e, professor universitário da instituição IESB, no curso de Ciência de Dados e Inteligência Artificial, em Brasília.
 
 [Linkedin](https://www.linkedin.com/in/alexandre-vaz-roriz-07880724/)
 
