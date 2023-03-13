@@ -23,5 +23,5 @@ Trata-se do portfolio de projetos e materiais desenvolvidos em sua maioria relac
 * [Análise do Debate Presidencial 29/09/2022](https://alexvaroz-app-analise-debate-02-2022-app-u2pwm3.streamlitapp.com/) -  https://github.com/alexvaroz/app_analise_debate_02_2022
 * [Criador de resumos de vídeos do YouTube, via ChatGPT](https://alexvaroz-youtube-summarizer-app-ivqe5a.streamlit.app/) - https://github.com/alexvaroz/youtube_summarizer
 
-* Exploração de dados do Twitter
+* [Contextualizador de Trend Topic do Twitter, via ChatGPT](https://alexvaroz-trend-topic-contextualizer-app-ob2zn1.streamlit.app/) - https://github.com/alexvaroz/trend_topic_contextualizer
 * Análise da evolução de uma vegetação utilizando imagens de satélite
